@@ -10,6 +10,7 @@ public class Player : MonoBehaviour
         Debug.Log("LOL");
         Transform.Destroy(this);
         Debug.Log("XD");
+        Debug.Log("POP");
     }
 
     // Update is called once per frame
